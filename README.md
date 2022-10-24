@@ -1,7 +1,7 @@
 # sausau
 ## App for family & friends saving plans.
+![WhatsApp Image 2022-10-24 at 6 06 43 AM](https://user-images.githubusercontent.com/81522801/197446736-5d865204-1d64-496f-bd1f-dd97db3d9800.jpeg)
 
-![WhatsApp Image 2022-10-24 at 5 43 55 AM](https://user-images.githubusercontent.com/81522801/197445783-9811b36a-547b-4a4b-a9fb-f8d82760a88a.jpeg)
 
 
 
