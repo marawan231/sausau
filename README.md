@@ -2,7 +2,7 @@
 - App for saving plans between users .
 ![WhatsApp Image 2022-10-24 at 6 06 43 AM](https://user-images.githubusercontent.com/81522801/197446736-5d865204-1d64-496f-bd1f-dd97db3d9800.jpeg)
 
-##informations
+## informations
  this app made using dart & flutter  using following : 
 - CLean Arch
 - Retrofit 
